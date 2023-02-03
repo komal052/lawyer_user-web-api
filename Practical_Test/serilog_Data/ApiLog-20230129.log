@@ -1,0 +1,18 @@
+[2023-01-29 23:11:53.877 +05:30 [INF] User profile is available. Using 'C:\Users\K&K\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+][2023-01-29 23:11:55.094 +05:30 [INF] Now listening on: https://localhost:7277
+][2023-01-29 23:11:55.097 +05:30 [INF] Now listening on: http://localhost:5208
+][2023-01-29 23:11:55.118 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+][2023-01-29 23:11:55.124 +05:30 [INF] Hosting environment: Development
+][2023-01-29 23:11:55.128 +05:30 [INF] Content root path: D:\.net\Practical_Test\Practical_Test\
+][2023-01-29 23:11:57.773 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7277/swagger/index.html - -
+][2023-01-29 23:12:00.013 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7277/swagger/index.html - - - 200 - text/html;charset=utf-8 2261.9874ms
+][2023-01-29 23:12:00.257 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7277/_vs/browserLink - -
+][2023-01-29 23:12:00.321 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7277/_framework/aspnetcore-browser-refresh.js - -
+][2023-01-29 23:12:00.373 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7277/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 52.5463ms
+][2023-01-29 23:12:00.547 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7277/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 290.4123ms
+][2023-01-29 23:12:00.623 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7277/swagger/favicon-32x32.png - -
+][2023-01-29 23:12:00.720 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+][2023-01-29 23:12:00.720 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7277/swagger/favicon-32x32.png - - - 0 628 image/png 97.1772ms
+][2023-01-29 23:12:00.944 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7277/swagger/v1/swagger.json - -
+][2023-01-29 23:12:01.584 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7277/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 640.6506ms
+]
