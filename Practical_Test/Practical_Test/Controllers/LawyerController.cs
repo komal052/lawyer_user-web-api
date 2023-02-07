@@ -69,10 +69,10 @@ namespace Practical_Test.Controllers
 
                     });
 
-            /* if(r==null)
+            if (r == null)
             {
                 return NotFound();
-            }*/
+            }
             return Ok(r);
 
         }
